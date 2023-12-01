@@ -25,6 +25,13 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*.pyc
+__pycache__/
+*.swp
+.vscode/
+.idea/
+.venv/
+pk_recept.txt
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
